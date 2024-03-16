@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodolistsApp/static/css/main.e6c13ad2.css",
+    "main.js": "/TodolistsApp/static/js/main.c3f2093e.js",
+    "index.html": "/TodolistsApp/index.html",
+    "main.e6c13ad2.css.map": "/TodolistsApp/static/css/main.e6c13ad2.css.map",
+    "main.c3f2093e.js.map": "/TodolistsApp/static/js/main.c3f2093e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c3f2093e.js"
+  ]
+}
